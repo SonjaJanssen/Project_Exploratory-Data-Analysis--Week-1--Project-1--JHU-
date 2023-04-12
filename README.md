@@ -1,19 +1,19 @@
 # Exploratory Data Analysis- Week 1- Course Project 1 (JHU)
  R.programming Course 1 Exploratory Data Analysis wk1
 
-#_________________________________________________________________________________________
+
 # This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets.
 # In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
-#_________________________________________________________________________________________
+
 
 - Dataset: Electric power consumption [20Mb]  UC Irvine Machine Learning Repository
 
 - Description: Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. 
   Different electrical quantities and some sub-metering values are available.
 
-#_________________________________________________________________________________________
+
 #     The following descriptions of the 9 variables in the dataset are taken from the UCI web site:
-#_________________________________________________________________________________________
+
 1. Date: Date in format dd/mm/yyyy
 
 2. Time: time in format hh:mm:ss
@@ -35,9 +35,9 @@
 9. Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). 
    It corresponds to an electric water-heater and an air-conditioner.
 
-#______________________________________________________________________________________
+
 #     Review criteria
-#______________________________________________________________________________________
+
 
 #   Criteria
 
@@ -47,26 +47,26 @@
  - Does each plot appear correct?
  - Does each set of R code appear to create the reference plot?
 
-#______________________________________________________________________________________
+
 #     Reviewing the Assignments
-#______________________________________________________________________________________
+
 - Keep in mind this course is about exploratory graphs, understanding the data, and developing strategies. 
 - Here's a good quote from a swirl lesson about exploratory graphs: "They help us find patterns in data and understand its properties. 
 - They suggest modeling strategies and help to debug analyses. 
 - We DON'T use exploratory graphs to communicate results."
 
-#_______________________________________________________________________________________
+
 #     The rubrics should always be interpreted in that context.
-#_______________________________________________________________________________________
+
 - As you do your evaluation, please keep an open mind and focus on the positive. 
 - The goal is not to deduct points over small deviations from the requirements or for legitimate differences in implementation styles, etc. 
 - Look for ways to give points when it's clear that the submitter has given a good faith effort to do the project, and when it's likely that they've succeeded.
 - Most importantly, it's okay if a person did something differently from the way that you did it. 
 - The point is not to see if someone managed to match your way of doing things, but to see if someone objectively accomplished the task at hand.
 
-#______________________________________________________________________________________
+
 #      To that end, keep the following things in mind:
-#______________________________________________________________________________________
+
 ### DO
 
 1. Review the source code.
@@ -82,9 +82,9 @@
 3. Deduct based on aesthetics.
 4. Loading the data
 
-#___________________________________________________________________________
+
 #     LOADING THE DATA
-#___________________________________________________________________________
+
 
 # When loading the dataset into R, please consider the following:
 
@@ -99,9 +99,9 @@
 
 - Note that in this dataset missing values are coded as ?.
 
-#____________________________________________________________________________
+
 #     Making Plots
-#____________________________________________________________________________
+
 
 Our overall goal here is simply to examine how household energy usage varies over a 2-day period in February, 2007. Your task is to reconstruct the following plots below, all of which were constructed using the base plotting system.
 
@@ -122,12 +122,12 @@ First you will need to fork and clone the following GitHub repository: https://g
 - You must also include the code that creates the PNG file.
 
 - Add the PNG file and R code file to the top-level folder of your git repository (no need for separate sub-folders)
-#_____________________________________________________________________
+
 When you are finished with the assignment, push your git repository to GitHub so that the GitHub version of your repository is up to date. There should be four PNG files and four R code files, a total of eight files in the top-level folder of the repo.
 
-#____________________________________________________________________
-The four plots that you will need to construct are shown below:
-#____________________________________________________________________
+
+# The four plots that you will need to construct are shown below:
+
 #                             GOOD LUCK!
 
 Plot 1
