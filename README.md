@@ -1,7 +1,7 @@
 # Exploratory Data Analysis- Week 1- Course Project 1 (JHU)
  R.programming Course 1 Exploratory Data Analysis wk1
 
-This repository is a project 1_assignment  of the course "Exploratory Data Analysis", Data Science specialization_Coursera offered by University: John Hopkins University Bloomberg School of Public Health _ at Coursera.
+This repository is a project 1_assignment  of the course "Exploratory Data Analysis", Data Science specialization_Coursera offered by John Hopkins University Bloomberg School of Public Health _ at Coursera.
 Lectures: By Professors PhD Jeffrey Leek, PhD Roger D. Peng, PhD Brian Caffo
 
 
