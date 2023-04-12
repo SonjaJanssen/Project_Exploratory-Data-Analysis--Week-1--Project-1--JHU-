@@ -1,7 +1,7 @@
 # Exploratory Data Analysis- Week 1- Course Project 1 (JHU)
  R.programming Course 1 Exploratory Data Analysis wk1
 
-#Instructions:
+# Instructions:
 
 # This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets.
 In particular, we will be using the “Individual household electric power consumption Data Set” which I have been made available on the course web site:
