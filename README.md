@@ -1,6 +1,10 @@
 # Exploratory Data Analysis- Week 1- Course Project 1 (JHU)
  R.programming Course 1 Exploratory Data Analysis wk1
 
+This repository is a project 1_assignment  of the course "Exploratory Data Analysis", Data Science specialization_Coursera offered by University: John Hopkins University Bloomberg School of Public Health _ at Coursera
+Lectures: By Professors PhD Jeffrey Leek, PhD Roger D. Peng, PhD Brian Caffo
+
+
 # Instructions:
 
 # This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets.
@@ -132,22 +136,18 @@ When you are finished with the assignment, push your git repository to GitHub so
 #                             GOOD LUCK!
 
 Plot 1
-
 ![image](https://user-images.githubusercontent.com/123073089/231570255-2f88b4ab-29a3-42c8-9292-e49311578029.png)
 
 
 Plot 2
-
 ![image](https://user-images.githubusercontent.com/123073089/231570481-a0face0c-cef6-4758-84af-6815d6a38c36.png)
 
 
 Plot 3
-
 ![image](https://user-images.githubusercontent.com/123073089/231570773-e6674454-c924-41a7-b51e-8a85ca990aa7.png)
 
 
 Plot 4
-
 ![image](https://user-images.githubusercontent.com/123073089/231570960-477f4e7a-d7a2-448b-9e3d-5386e1abea6b.png)
 
 
