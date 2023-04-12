@@ -131,25 +131,26 @@ Add the PNG file and R code file to the top-level folder of your git repository 
 
 When you are finished with the assignment, push your git repository to GitHub so that the GitHub version of your repository is up to date. There should be four PNG files and four R code files, a total of eight files in the top-level folder of the repo.
 
-The four plots that you will need to construct are shown below.
-
-Plot 1
-
-Plot 2
-
-Plot 3
-
-Plot 4
-
+The four plots that you will need to construct are shown below:
 
 #                             GOOD LUCK!
-
+Plot 1
 
 ![image](https://user-images.githubusercontent.com/123073089/231570255-2f88b4ab-29a3-42c8-9292-e49311578029.png)
 
 
+Plot 2
+
+![image](https://user-images.githubusercontent.com/123073089/231570481-a0face0c-cef6-4758-84af-6815d6a38c36.png)
 
 
+Plot 3
 
+![image](https://user-images.githubusercontent.com/123073089/231570773-e6674454-c924-41a7-b51e-8a85ca990aa7.png)
+
+
+Plot 4
+
+![image](https://user-images.githubusercontent.com/123073089/231570960-477f4e7a-d7a2-448b-9e3d-5386e1abea6b.png)
 
 
