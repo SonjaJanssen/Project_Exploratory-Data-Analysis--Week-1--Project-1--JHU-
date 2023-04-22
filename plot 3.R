@@ -6,7 +6,7 @@
 #   Codes: @SonjaJS
 #   Date:  16 April 2023
 
-##  Grade: 
+##  Grade: 100 %
 ##  Graded peers assignment: by 4 peers review
 ##  Review: by SJ and Peers
 
