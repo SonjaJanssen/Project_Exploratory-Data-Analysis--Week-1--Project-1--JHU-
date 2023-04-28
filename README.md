@@ -1,13 +1,13 @@
-# Exploratory Data Analysis- Week 1- Course Project 1 (JHU)
- R.programming Course 1 Exploratory Data Analysis wk1
+# Exploratory Data Analysis Week 1 Course Project 1 (John Hopkins University)
+ R.programming Course 1 Exploratory Data Analysis week 1
 
-This repository is a project 1_assignment  of the course "Exploratory Data Analysis", Data Science specialization_Coursera offered by John Hopkins University Bloomberg School of Public Health _ at Coursera.
+This repository is a project 1 assignment  of the course "Exploratory Data Analysis", Data Science specialization offered by John Hopkins University Bloomberg School of Public Health _ at Coursera.
 Lectures: By Professors PhD Jeffrey Leek, PhD Roger D. Peng, PhD Brian Caffo
 
 
 # Instructions:
 
-# This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets.
+## This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets.
 In particular, we will be using the “Individual household electric power consumption Data Set” which I have been made available on the course web site:
 
 
