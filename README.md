@@ -17,7 +17,7 @@ In particular, we will be using the “Individual household electric power consu
   Different electrical quantities and some sub-metering values are available.
 
 
-#     The following descriptions of the 9 variables in the dataset are taken from the UCI web site:
+##     The following descriptions of the 9 variables in the dataset are taken from the UCI web site:
 
 1. Date: Date in format dd/mm/yyyy
 
@@ -61,7 +61,7 @@ In particular, we will be using the “Individual household electric power consu
 - We DON'T use exploratory graphs to communicate results."
 
 
-#     The rubrics should always be interpreted in that context.
+##     The rubrics should always be interpreted in that context.
 
 - As you do your evaluation, please keep an open mind and focus on the positive. 
 - The goal is not to deduct points over small deviations from the requirements or for legitimate differences in implementation styles, etc. 
