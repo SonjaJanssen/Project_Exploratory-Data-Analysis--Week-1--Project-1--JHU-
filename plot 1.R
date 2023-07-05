@@ -2,7 +2,7 @@
 ##  plot1.R and plot1.png
 
 #   Lectures: By Professors PhD Jeffrey Leek, PhD Roger D. Peng, PhD Brian Caffo
-#   University: John Hopkins University Bloomberg School of Public Health _ at coursera
+#   University: John Hopkins University Bloomberg School of Public Health 
 #   Codes:  @Sonja Janssen-Sahebzad (@SonjaJS)
 #   Date:  16 April 2023
 
