@@ -3,6 +3,7 @@
 
 This repository is a project 1 assignment  "Exploratory Data Analysis", Data Science specialization offered by Johns Hopkins University Bloomberg School of Public Health.
 Lectures: By Professors PhD Jeffrey Leek, PhD Roger D. Peng, PhD Brian Caffo
+The coded are created by Sonja Janssen-Sahebzad
 
 
 # Instructions:
@@ -110,9 +111,9 @@ First you will need to fork and clone the following GitHub repository: https://g
 
 - Add the PNG file and R code file to the top-level folder of your git repository (no need for separate sub-folders)
 
-When you are finished with the assignment, push your git repository to GitHub so that the GitHub version of your repository is up to date. There should be four PNG files and four R code files, a total of eight files in the top-level folder of the repo.
+The assignment was pushed to my git repository to GitHub. There are four PNG files and four R code files, a total of eight files in the top-level folder of the repo.
 
-# The four plots that you will need to construct are shown below:
+# The four plots to create:
  
 Plot 1
 ![image](https://user-images.githubusercontent.com/123073089/231570255-2f88b4ab-29a3-42c8-9292-e49311578029.png)
