@@ -1,4 +1,4 @@
-##  Exploratory Data Analysis-Week 1-Course Project 1 (JHU)
+##  Exploratory Data Analysis-Week 1- Project 1 (JHU)
 ##  plot2.R and plot2.png
 
 #   Lectures: By Professors PhD Jeffrey Leek, PhD Roger D. Peng, PhD Brian Caffo
