@@ -113,7 +113,7 @@ First you will need to fork and clone the following GitHub repository: https://g
 
 The assignment was pushed to my git repository to GitHub. There are four PNG files and four R code files, a total of eight files in the top-level folder of the repo.
 
-# The four plots to create:
+# The four plots
  
 Plot 1
 ![image](https://user-images.githubusercontent.com/123073089/231570255-2f88b4ab-29a3-42c8-9292-e49311578029.png)
