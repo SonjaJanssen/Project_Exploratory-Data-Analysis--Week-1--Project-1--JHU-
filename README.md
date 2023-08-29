@@ -1,5 +1,5 @@
 # Project Exploratory Data Analysis
- R.programming Course 1 Exploratory Data Analysis
+ Assignment R.programming  1 Exploratory Data Analysis
 
 This repository is a project 1 assignment  "Exploratory Data Analysis", Data Science specialization offered by Johns Hopkins University Bloomberg School of Public Health.
 Lectures: By Professors PhD Jeffrey Leek, PhD Roger D. Peng, PhD Brian Caffo
