@@ -3,11 +3,10 @@
 
 #   Lectures: By Professors PhD Jeffrey Leek, PhD Roger D. Peng, PhD Brian Caffo
 #   University: Johns Hopkins University Bloomberg School of Public Health 
-#   Codes:  by Sonja Janssen-Sahebzad (@SonjaJS)
+#   Codes:  by Sonja Janssen-Sahebzad 
 #   Date:  16 April 2023
 
 ##  Grade: 100 %
-##  Graded peers assignment: by 4 peers review
 ##  Review: by SJ and Peers
 
 ##  Script: All Codes are tested, assignment completed: codes all ok!
@@ -76,12 +75,12 @@ getwd()
 #                           - In Github make a new folder where your current file will be stored
 #                           - You can choose to store all your  files or objects in your Github folder
 
-## 1.1.3. Set your working dir:
-setwd("C:/Users/csj50/OneDrive/Documents/Github/Exploratory Data Analysis- Week 1- Course Project 1 (JHU)/Exploratory-Data-Analysis--Week-1--Course-Project-1--JHU-")
+## 1.1.3. Set your working dir: examples 
+setwd("C:/Users/../../Documents/Github/Exploratory Data Analysis-(JHU)")
 
 ## 1.1.4. Check:  
 getwd()
-## [1] "C:/Users/csj50/OneDrive/Documents/Github/Exploratory Data Analysis- Week 1- Course Project 1 (JHU)/Exploratory-Data-Analysis--Week-1--Course-Project-1--JHU-"
+## [1] "C:/Users/../../Documents/Github/Exploratory Data Analysis-(JHU)"
 
 ## Codes tested = ok!
 
