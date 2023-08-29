@@ -64,7 +64,7 @@ FuntionExample(vector.packages)
 #*******************************************************************************
 ## 1.1.1. - Find working directory
 getwd()
-## [1] "C:/Users/csj50/OneDrive/Documents"
+## [1] "C:/Users/../OneDrive/Documents"
 
 ## 1.1.2. Set you working dir in R studio
 #         - You can change your working directory setwd()
@@ -76,12 +76,12 @@ getwd()
 #                           - In Github make a new folder where your current file will be stored
 #                           - You can choose to store all your  files or objects in your Github folder
 
-## 1.1.3. Set your working dir:
-setwd("C:/Users/csj50/OneDrive/Documents/Github/Exploratory Data Analysis- Week 1- Course Project 1 (JHU)/Exploratory-Data-Analysis--Week-1--Course-Project-1--JHU-")
+## 1.1.3. Set your working dir: example
+setwd("C:/Users/../../Documents/Github/Exploratory Data Analysis-Project 1 (JHU)")
 
 ## 1.1.4. Check:  
 getwd()
-## [1] "C:/Users/csj50/OneDrive/Documents/Github/Exploratory Data Analysis- Week 1- Course Project 1 (JHU)/Exploratory-Data-Analysis--Week-1--Course-Project-1--JHU-"
+## [1] "C:/Users/../../Documents/Github/Exploratory Data Analysis-Project 1 (JHU)"
 
 ## Codes tested = ok!
 
