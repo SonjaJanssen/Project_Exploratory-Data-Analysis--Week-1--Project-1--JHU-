@@ -1,4 +1,5 @@
-##  Exploratory Data Analysis-Week 1-Project 1 (JHU)
+##  Data science project
+##  Exploratory Data Analysis-Week 1-Project 1 
 ##  plot4.R and plot4.png
 
 #   Lectures: By Professors PhD Jeffrey Leek, PhD Roger D. Peng, PhD Brian Caffo
