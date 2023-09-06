@@ -1,4 +1,5 @@
-##  Exploratory Data Analysis-Week 1- Project 1 (JHU)
+##  Data science project
+##  Exploratory Data Analysis-Week 1- Project 1
 ##  plot2.R and plot2.png
 
 #   Lectures: By Professors PhD Jeffrey Leek, PhD Roger D. Peng, PhD Brian Caffo
@@ -7,7 +8,6 @@
 #   Date:  16 April 2023
 
 ##  Grade: 100 %
-##  Graded peers assignment: by 4 peers review
 ##  Review: by SJ and Peers
 
 ##  Script: All Codes are tested, assignment completed: codes all ok!
